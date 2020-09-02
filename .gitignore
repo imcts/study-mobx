@@ -1,0 +1,8 @@
+/node_modules/
+/dist/
+/publish/
+.vscode/
+.idea/
+*.iml
+/server/view/mobile/index.html
+/server/view/web/index.html
